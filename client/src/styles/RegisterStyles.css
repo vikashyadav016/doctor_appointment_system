@@ -1,0 +1,26 @@
+.form-container {
+    background-image: url("https://img.freepik.com/free-photo/close-up-doctor-front-bright-background_53419-4416.jpg?size=626&ext=jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.register-form {
+    border: 1px groove rgb(55, 46, 25);
+    padding: 30px;
+    width: 30%;
+    border-radius: 4%;
+}
+
+.m-2 {
+    text-decoration: none
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
